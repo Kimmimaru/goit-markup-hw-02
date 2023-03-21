@@ -18,6 +18,13 @@ body {
 
 .link {
     text-decoration: none;
+    color: #404bbf
+}
+
+
+.link:hover {
+    text-decoration: none;
+    color: #404bbf
 }
 
 
@@ -37,6 +44,20 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color:#2e2f42
+    
+}
+
+
+.addr {
+    font-style: normal;
+}
+
+
+.addr-link {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:#434455
     
 }
 
