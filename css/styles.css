@@ -43,10 +43,6 @@ body {
 }
 
 
-.list .link:hover{
-    list-style: none;
-}
-
 
 .navi {
     font-weight: 500;
