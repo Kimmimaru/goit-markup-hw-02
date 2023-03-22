@@ -38,6 +38,16 @@ body {
 }
 
 
+.list .link {
+    list-style: none;
+}
+
+
+.list .link:hover{
+    list-style: none;
+}
+
+
 .navi {
     font-weight: 500;
     font-size: 16px;
