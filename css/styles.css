@@ -4,6 +4,13 @@ body {
     background-color:#FFFFFF;
 }
 
+header {
+    position: absolute;
+    width: 1440px;
+    height: 72px;
+    left: 0px;
+    top: 0px;
+}
 
 .logo {
     font-family: "Raleway", sans-serif;
@@ -38,12 +45,6 @@ body {
 }
 
 
-.list .link {
-    list-style: none;
-}
-
-
-
 .navi {
     font-weight: 500;
     font-size: 16px;
@@ -67,6 +68,12 @@ body {
     
 }
 
+
+
+.sektion-title {
+    background-color: #2e2f42;
+
+}
 
 :root {
 }
