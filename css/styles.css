@@ -98,19 +98,7 @@ body {
 }
 
 
-.butt:hover {
-    background-color: #404BBF;
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
-    color: #ffffff;
-    cursor: pointer;
-}
-
-
-.butt:focus {
+.butt:is(:hover, :focus) {
     background-color: #404BBF;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
