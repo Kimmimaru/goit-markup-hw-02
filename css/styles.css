@@ -4,13 +4,7 @@ body {
     background-color:#FFFFFF;
 }
 
-header {
-    position: absolute;
-    width: 1440px;
-    height: 72px;
-    left: 0px;
-    top: 0px;
-}
+
 
 .logo {
     font-family: "Raleway", sans-serif;
