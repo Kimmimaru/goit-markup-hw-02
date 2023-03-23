@@ -72,7 +72,9 @@ body {
 
 .sektion-title {
     background-color: #2e2f42;
+    position: absolute;
     width: 100%;
+    height: 600px;
     margin: 0;
 
 }
