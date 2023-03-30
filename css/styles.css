@@ -44,6 +44,11 @@ body {
 }
 
 
+.logo .link {
+    color: #4d5ae5;
+}
+
+
 .list {
     list-style: none;
 }
