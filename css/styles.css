@@ -8,18 +8,7 @@ body {
 .header {
     width: 100%;
 }
-
-
-.logo {
-    font-family: "Raleway", sans-serif;
-    font-weight: 800;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color:#4d5ae5;
-}
-
+  
 
 .link {
     text-decoration: none;
@@ -39,8 +28,8 @@ body {
 }
 
 
-.logo-head {
-    color:#2e2f42;
+.list {
+    list-style: none;
 }
 
 
@@ -49,8 +38,19 @@ body {
 }
 
 
-.list {
-    list-style: none;
+.logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color:#4d5ae5;
+}
+
+
+.logo-head {
+    color:#2e2f42;
 }
 
 
@@ -119,6 +119,11 @@ body {
 }
 
 
+.sektion-two {
+
+}
+
+
 .sektion-two-title {
     font-size: 36px;
     line-height: 1.11;
@@ -139,6 +144,11 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+}
+
+
+.sektion-three {
+    
 }
 
 
