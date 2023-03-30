@@ -44,7 +44,7 @@ body {
 }
 
 
-.logo .link {
+.logo > .link {
     color: #4d5ae5;
 }
 
