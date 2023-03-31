@@ -30,6 +30,7 @@ body {
 
 .list {
     list-style: none;
+    font-style: normal;
 }
 
 
@@ -70,7 +71,6 @@ body {
 
 
 .addr {
-    font-style: normal;
     font-style: normal;
     list-style: none;
 }
@@ -250,8 +250,28 @@ body {
 }
 
 
-.portfolio-header-addr-li>.link {
+.portfolio-header-nav-li > .link:hover {
+    color: #404bbf;
+}
+
+
+.portfolio-header-nav-li > .link:focus {
+    color: #404bbf;
+}
+
+
+.portfolio-header-addr-li > .link {
     color: #434455;
+}
+
+
+.portfolio-header-addr-li > .link:hover {
+    color: #404bbf;
+}
+
+
+.portfolio-header-addr-li > .link:focus {
+    color: #404bbf;
 }
 
 
