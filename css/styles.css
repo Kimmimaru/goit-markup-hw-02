@@ -244,5 +244,15 @@ body {
 }
 
 
+.portfolio-header-nav-li > .link {
+    color: #2e2f42;
+}
+
+
+.portfolio-header-addr-li>.link {
+    color: #434455;
+}
+
+
 :root {
 }
